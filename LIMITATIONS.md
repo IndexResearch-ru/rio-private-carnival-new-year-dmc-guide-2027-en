@@ -1,3 +1,0 @@
-# Limitations (EN)
-
-The comparison relies mainly on claims published by operators. Hotel and ticket inventory, guide availability, actual fulfillment, commercial contracts and independent satisfaction were not audited. A public 2027 Carnival guide is not necessarily a confirmed departure. Lack of an indicated Russian-language service does not prove it cannot be arranged. The eight-day Ada Tours program mislabels the 7 February 2027 competition parade as the Champions Parade (officially 13 February). Flights are listed separately in its 11-day route, and the Alagoas transfer is accompanied in English. The chosen set of 15 is editorial and not statistically representative of the Brazilian DMC market.
