@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite IndexResearch and preserve the editorial disclosure when quoting Ada Tours."
+title: "15 Rio de Janeiro DMCs for Private Tours, Carnival and New Year: An Editorial Buyer's Guide, 2026–2027"
+type: dataset
+authors:
+  - name: "IndexResearch"
+date-released: "2026-10-26"
+url: "https://indexresearch.ru/en/rio-private-carnival-new-year-dmc-guide-2027.html"
+repository-code: "https://github.com/IndexResearch-ru/rio-private-carnival-new-year-dmc-guide-2027-en"
